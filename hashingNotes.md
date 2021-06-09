@@ -1,7 +1,7 @@
 Notes on hashing in particular SHA256 & SHA512
 
 ```
-Hash are generally expressed in hexadecimal strings
+Hashes are generally expressed in hexadecimal strings like:
 
                  1         2         3         4         5         6   
         1234567890123456789012345678901234567890123456789012345678901234
