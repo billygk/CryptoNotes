@@ -15,7 +15,7 @@ length: 128
 ```
 
 
-Zincs implementation:
+An implementation:
 ```
 public String getSha256(String input) {
   try {
